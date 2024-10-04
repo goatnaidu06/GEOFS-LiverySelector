@@ -5018,6 +5018,20 @@
                     ]
                 },
                 {
+                    "name": "Air India",
+                    "texture": [
+                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/airbus_a350-900/Air_India_A350.png",
+                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/airbus_a350-900/Air_India_A350.png",
+                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/airbus_a350-900/Air_India_A350.png",
+                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/airbus_a350-900/Air_India_A350.png",
+                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/airbus_a350-900/Air_India_A350.png",
+                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/airbus_a350-900/Air_India_A350.png",
+                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/airbus_a350-900/Air_India_A350.png",
+                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/airbus_a350-900/Air_India_A350.png",
+                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/airbus_a350-900/Air_India_A350.png"
+                    ]
+                },
+                {
                     "name": "Asiana Airlines",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a350-900/asiana.png",
