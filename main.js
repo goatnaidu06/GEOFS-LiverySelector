@@ -1,4 +1,4 @@
-const githubRepo = 'https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main';
+const githubRepo = 'https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main';
 const version = '3.1.0';
 
 const liveryobj = {};
