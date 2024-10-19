@@ -55,7 +55,7 @@ async function handleLiveryJson(data) {
     if (liveryobj.version != version) {
         document.querySelector('.livery-list h3').appendChild(
             createTag('a', {
-                href:'https://github.com/kolos26/GEOFS-LiverySelector',
+                href:'https://github.com/goatnaidu06/GEOFS-LiverySelector',
                 target:'_blank',
                 style: 'display:block;width:100%;text-decoration:none;text-align:center;'
             }, 'Update available: ' + liveryobj.version)
