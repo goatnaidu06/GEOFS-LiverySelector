@@ -17262,6 +17262,13 @@
                     ]
                 },
                 {
+                    "name": "Air India",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/airbus_a350-900/Air_India_A350.png"
+                    ]
+                },
+                {
                     "name": "Air Mauritius",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
@@ -20285,7 +20292,7 @@
                     "name": "Air India",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
-                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/airindia.jpg"
+                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/airindia.jpg"
                     ]
                 },
                 {
@@ -20988,9 +20995,9 @@
                     "name": "Air India (Star Alliance livery)",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
-                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/starallianceairindia.jpg"
+                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/starallianceairindia.jpg"
                     ],
-                    "credits": "Androway"
+                    "credits": "Neil Naidu"
                 },
                 {
                     "name": "Garuda Indonesia (Indonesian Airways retro livery)",
@@ -21028,9 +21035,9 @@
                     "name": "Air India (VT-AER)",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
-                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/vtaer.jpg"
+                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/vtaer.jpg"
                     ],
-                    "credits": "Habsfan1909"
+                    "credits": "Neil Naidu"
                 },
                 {
                     "name": "Alitalia",
