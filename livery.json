@@ -5596,6 +5596,20 @@
                     ]
                 },
                 {
+                    "name": "Air India",
+                    "texture": [
+                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/airbus_a350-900/Air_India_A350.png",
+                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/airbus_a350-900/Air_India_A350.png",
+                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/airbus_a350-900/Air_India_A350.png",
+                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/airbus_a350-900/Air_India_A350.png",
+                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/airbus_a350-900/Air_India_A350.png",
+                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/airbus_a350-900/Air_India_A350.png",
+                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/airbus_a350-900/Air_India_A350.png",
+                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/airbus_a350-900/Air_India_A350.png",
+                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/airbus_a350-900/Air_India_A350.png"
+                    ]
+                },
+                {
                     "name": "China Airlines",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a350-900/chinaairlines.png",
@@ -17259,13 +17273,6 @@
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
                         "https://raw.githubusercontent.com/coolpilot11/stuff/main/W2FLY2.png"
-                    ]
-                },
-                {
-                    "name": "Air India",
-                    "texture": [
-                        "/models/aircraft/premium/a350/specular.jpg",
-                        "https://raw.githubusercontent.com/goatnaidu06/GEOFS-LiverySelector/main/liveries/airbus_a350-900/Air_India_A350.png"
                     ]
                 },
                 {
