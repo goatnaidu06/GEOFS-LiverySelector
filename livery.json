@@ -17478,6 +17478,14 @@
                     "credits": "bilibili開飛機のzm"
                 },
                 {
+                    "name": "Emirates (A6-EXB)",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a350-900/a6exb"
+                    ],
+                    "credits": "GeoFSFlightVideoGroupYT"
+                },
+                {
                     "name": "Sichuan Airlines (2021 Chengdu Summer Universiade livery B-304V)",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
